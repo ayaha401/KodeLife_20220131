@@ -1,0 +1,2 @@
+# KodeLife_20220131
+orthographicカメラをやろうとした
